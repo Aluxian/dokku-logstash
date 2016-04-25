@@ -1,1 +1,1 @@
-web: kibana -p $PORT
+web: logstash agent -f logstash.conf
