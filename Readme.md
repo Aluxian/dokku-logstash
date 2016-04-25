@@ -23,3 +23,9 @@ cd dokku-kibana
 git remote add dokku dokku@yourserver.me:kibana
 git push dokku master
 ```
+
+## Env vars
+
+- CONFIG_TYPE: Can be `simple` or `syslog`
+- ELASTICSEARCH_URL
+- DOWNLOAD_URL (for the buildpack)
