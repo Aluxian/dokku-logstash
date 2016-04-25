@@ -1,8 +1,4 @@
-# dokku-kibana
-
-![Kibana 4](kibana.png)
-
-Run Kibana 4 on dokku.
+# dokku-logstash
 
 ## Deploy
 
